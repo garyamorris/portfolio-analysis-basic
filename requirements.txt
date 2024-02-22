@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+scipy
+yfinance
+collections-extended  # If you need collections.Counter, it's part of the standard library, but extended collections can be found in this package
+fredapi
